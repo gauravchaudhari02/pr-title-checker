@@ -1,1 +1,1 @@
-# pr-title-checker
+# PR Title Checker
